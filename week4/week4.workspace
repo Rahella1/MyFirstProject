@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="week4" Database="" Version="10.0.0">
+  <Project Name="complexnumber" Path="complexnumber/complexnumber.project" Active="No"/>
+  <Project Name="assignment1b" Path="assignment1b/assignment1b.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="complexnumber" ConfigName="Debug"/>
+      <Project Name="assignment1b" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="complexnumber" ConfigName="Release"/>
+      <Project Name="assignment1b" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
